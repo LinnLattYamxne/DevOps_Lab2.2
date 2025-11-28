@@ -200,4 +200,4 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
     
 :mask:
-เขียนถึง ภูตะวัน เมืองมา
+Vidchayada Abhicharttibutra 672115044
