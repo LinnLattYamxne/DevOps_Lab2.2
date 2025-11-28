@@ -200,4 +200,5 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
     
 :mask:
-เขียนถึง ภูตะวัน เมืองมา
+
+Chanchakorn Jullapech 672115007
